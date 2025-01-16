@@ -1,0 +1,8 @@
+Input:
+Java course
+Artificial intelligence
+Word_Count:
+artificial: 1
+course: 1
+intelligence: 1
+java: 1
